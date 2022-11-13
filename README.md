@@ -1,3 +1,3 @@
-## about
+## About React App
 
-this is my webapp that im making for utube
+This is a app that im making for utube
